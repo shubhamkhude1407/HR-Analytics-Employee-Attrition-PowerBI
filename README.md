@@ -97,17 +97,8 @@ HR-Analytics-Employee-Attrition-PowerBI
 
 ---
 
-# 📸 Dashboard Preview
 
-## Executive Dashboard
 
-![Dashboard Overview](dashboard-overview.png)
-
-## Employee Attrition Analysis
-
-![Employee Attrition Analysis](employee-attrition-analysis.png)
-
----
 
 # 🚀 Future Improvements
 
